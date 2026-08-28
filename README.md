@@ -10,7 +10,7 @@ python3 research-query.py "scaling laws" --ask        # + LLM answer over top ch
 
 ## Why
 
-The companion to [research-index](https://github.com/karlsune/research-index):
+The companion to [research-index](https://github.com/vhsgreed/research-index):
 once your notes are in a sqlite FTS5 corpus, this gives you fast local
 search plus an optional LLM synthesis pass over the best-matching chunks.
 
