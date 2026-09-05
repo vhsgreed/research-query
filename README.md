@@ -29,3 +29,7 @@ search plus an optional LLM synthesis pass over the best-matching chunks.
 
 - Search mode: ranked matches with snippets
 - `--ask` mode: the LLM's answer, grounded in your own notes
+
+## Links
+
+Part of the [vhsgreed](https://vhsgreed.win) toolset: data, code, and methods in the open.
